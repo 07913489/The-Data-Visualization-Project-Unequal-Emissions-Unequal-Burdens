@@ -28,10 +28,11 @@ This project aims to:
 3. Engage audiences with interactive visualizations to deepen their understanding of global climate disparities.
 
 ## Data Sources
+- **Historical Data Provided**: The Original Data including population, annual CO2 emission and so on.
+- **ND-GAIN INDEX**: The ND-GAIN Country Index summarizes a country's vulnerability to climate change and other global challenges in combination with its readiness to improve resilience. 
 - **World Bank**: Carbon emissions and population data.
 - **UNEP Emissions Gap Report**: Funding needs for climate adaptation in developing nations.
 - **International Energy Agency (IEA)**: Data on electricity access and industrial development in sub-Saharan Africa.
-- **Global Climate Risk Index (2023)**: Rankings of climate vulnerability by country.
 
 ## Visualizations
 
