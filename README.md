@@ -1,4 +1,4 @@
-# SI 649 Final Exam: Climate Paradox: Unequal Emissions, Unequal Burdens
+# SI 649 Final Exam: Climate Paradox - Unequal Emissions, Unequal Burdens
 
 This project explores the stark inequities in global carbon emissions and the unequal burden of climate change faced by developing nations. The project provides interactive visualizations and data-driven insights to highlight how the countries contributing the least to global CO₂ emissions are suffering the most from climate change impacts.
 
