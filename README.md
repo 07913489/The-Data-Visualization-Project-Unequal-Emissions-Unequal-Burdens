@@ -55,3 +55,6 @@ The project sheds light on a critical issue: developing nations contribute the l
 - Incorporating more granular data on climate impacts at the city level.
 - Adding predictive models to forecast future emission trends and vulnerabilities.
 - Exploring the socioeconomic dimensions of climate change, such as migration and resource conflicts.
+
+## Author
+Huanyu Ren (koberen)
